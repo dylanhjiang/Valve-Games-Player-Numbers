@@ -1,6 +1,6 @@
-![Valve_Corporation-Logo wine](https://github.com/dylanhjiang/Valve-Games-Player-Numbers/assets/137730071/576b9f30-29c4-491f-b823-aa5fce6267ec)
 # Valve Games Player Numbers
 Concurrent number of players in the online games: Counter Strike: Global Offensive, Dota 2, and Team Fortress 2
+![Valve_Corporation-Logo wine](https://github.com/dylanhjiang/Valve-Games-Player-Numbers/assets/137730071/576b9f30-29c4-491f-b823-aa5fce6267ec)
 
 
 ### Interactive dashboard created for this data can be found [in this link to Tableau](https://public.tableau.com/app/profile/dylan.jiang/viz/ValveGamesPlayerNumbers/Dashboard1)
