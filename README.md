@@ -27,3 +27,4 @@ during 2020 and 2021 could possibly be a correlative effect driven by the increa
   The trends in average player count by the months in the year is aggregated and averaged using all the months in the period from July 2012 to September 2021
 (Example: July 2014, July 2015, July 2016 etc. are combined and averaged). The highest and lowest points in player numbers seem to concentrate in specific parts 
 in the year. Average player count appear to reach its peak at around the year's second quarter and then tends to dip down during the fourth quarter.   
+_____________________________________________________________________________________________________________________________________________
