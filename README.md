@@ -1,7 +1,8 @@
-# Valve Games Player Numbers
-A look into the trend in concurrent number of players in Valve online games: Counter Strike: Global Offensive, Dota 2, and Team Fortress 2
 ![R](https://github.com/dylanhjiang/Valve-Games-Player-Numbers/assets/137730071/1fd21da9-60f6-4b83-b1fb-effe5f0d76ff)
 
+
+# Valve Games Player Numbers
+A look into the trend in concurrent number of players in Valve online games: Counter Strike: Global Offensive, Dota 2, and Team Fortress 2
 
 
 ### Interactive dashboard created for this data can be found in [this link to Tableau](https://public.tableau.com/app/profile/dylan.jiang/viz/ValveGamesPlayerNumbers/Dashboard1)
