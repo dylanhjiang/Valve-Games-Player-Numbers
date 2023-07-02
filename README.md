@@ -29,7 +29,7 @@ during 2020 and 2021 could possibly be explained by a correlative effect that wa
 ![Annotation 2023-07-01 103916](https://github.com/dylanhjiang/Valve-Games-Player-Numbers/assets/137730071/dc38122f-afba-4797-98a9-cda054b5a0a2)
 
   The trends in average player count by the months in the year is aggregated and averaged using all the months in the period from July 2012 to September 2021
-(Example: July 2014, July 2015, July 2016 etc. are combined and averaged). The highest and lowest points in player numbers in all three franchises seem to concentrate in specific parts of the year. Average player count appear to reach its peak at around the year's second quarter and then tends to dip down to its lowest point during the fourth quarter.
+(Example: July 2014, July 2015, July 2016 etc. are combined and averaged). The highest and lowest points in player numbers seem to concentrate in certain parts of the year in all three franchises. Average player count appear to reach its peak at around the year's second quarter and then tends to dip down to its lowest point during the fourth quarter. Since all three games seem to follow the same similar trend year round, it could be possible that the industry as a whole is affected similarly during those parts of the year. Additional analysis and research on games with similar genres and target audiences taken within the same time frame is required to find out if the fluctuations was caused from external factors.
 
 ![Annotation 2023-07-01 103745](https://github.com/dylanhjiang/Valve-Games-Player-Numbers/assets/137730071/faf8cdc1-e8c4-4644-9b47-40688fddc9e6)
 _____________________________________________________________________________________________________________________________________________
