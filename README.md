@@ -23,8 +23,7 @@ ________________________________________________________________________________
   Insights from the dashboard visualizations seem to indicate that Dota 2 was consistently in the lead in average player numbers compared to the 
 runner-up(Counter Strike: Global Offensive) in the years from 2012 to 2019. Counter Strike: Global Offensive overtakes average player count of Dota 2 in the next
 two years in 2020 and 2021 with numbers nearly doubling. Team Fortress 2 numbers remain stagnant throughout most of this time period but also experiences a sizable 
-increase in 2020 and 2021. Team Fortress 2 player count increased in these years by 41.9% and 34.2% respectively. The overall increase to average player counts
-during 2020 and 2021 could possibly be explained by a correlative effect that was driven by the general population's increased time spent indoors during the height of the Covid-19 pandemic. 
+increase in 2020 and 2021. Team Fortress 2 player count increased in these years by 41.9% and 34.2% respectively. A possible explanation to the overall increase of average player counts during 2020 and 2021 could have been driven by the general population's increased time spent indoors during the height of the Covid-19 pandemic. 
 
 ![Annotation 2023-07-01 103916](https://github.com/dylanhjiang/Valve-Games-Player-Numbers/assets/137730071/dc38122f-afba-4797-98a9-cda054b5a0a2)
 
